@@ -1,0 +1,43 @@
+﻿<svg role="img" focusable="false" preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 160" width="600" height="160">
+  <title>Oppdrag.tech — Signature email</title>
+  <desc>Brand asset for Oppdrag.Tech, optimized for web and social media use.</desc>
+
+  <!-- Background blanc -->
+  <rect width="600" height="160" fill="#ffffff"/>
+
+  <!-- Left copper bar -->
+  <rect x="0" y="0" width="4" height="160" fill="#C16A3E"/>
+
+  <!-- Logo icon compact -->
+  <!-- Scale 1.1: 100*1.1=110 wide, 116*1.1=128 tall -->
+  <!-- translateY = (160-128)/2 = 16 -->
+  <g transform="translate(18, 16) scale(1.1)">
+    <circle cx="50" cy="84" r="22" fill="none" stroke="#1B232F" stroke-width="17"/>
+    <circle cx="50" cy="84" r="22" fill="none" stroke="#C16A3E" stroke-width="12"/>
+    <path d="M31 55 C31 38 35 27 41 27 C45 27 47 31 50 31 C53 31 55 27 59 27 C65 27 69 38 69 55 Z"
+          fill="#C16A3E" stroke="#1B232F" stroke-width="3" stroke-linejoin="round"/>
+    <ellipse cx="50" cy="56" rx="40" ry="8" fill="#C16A3E" stroke="#1B232F" stroke-width="3"/>
+    <rect x="30" y="44" width="40" height="6" rx="2" fill="#1B232F"/>
+    <rect x="45.5" y="43" width="9" height="8" rx="1.5" fill="#C16A3E" stroke="#1B232F" stroke-width="1.4"/>
+  </g>
+
+  <!-- Name placeholder + role -->
+  <text x="145" y="52"
+        font-family="'Helvetica Neue', Arial, sans-serif"
+        font-size="20" font-weight="700" fill="#1B232F">Prénom Nom</text>
+  <text x="145" y="76"
+        font-family="'Helvetica Neue', Arial, sans-serif"
+        font-size="15" font-weight="400" fill="#C16A3E">Titre — Oppdrag.tech</text>
+
+  <!-- Divider -->
+  <line x1="145" y1="92" x2="580" y2="92" stroke="#1B232F" stroke-width="0.5" stroke-opacity="0.2"/>
+
+  <!-- Contact -->
+  <text x="145" y="114"
+        font-family="'Helvetica Neue', Arial, sans-serif"
+        font-size="13" fill="#1B232F" opacity="0.65">contact@oppdrag.tech  ·  oppdrag.tech</text>
+  <text x="145" y="136"
+        font-family="'Helvetica Neue', Arial, sans-serif"
+        font-size="12" font-weight="300" letter-spacing="1" fill="#1B232F" opacity="0.4">IA · DATA · CYBERSÉCURITÉ — FRANCE</text>
+</svg>
+
